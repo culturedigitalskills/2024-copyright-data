@@ -6,8 +6,8 @@ exercises: 10
 
 ::::: questions
 
-- Demonstrate that this understanding
-can be applied on a dataset.
+- Demonstrate the implications of copyrights
+for using data within projects, and how to license according to copyright.
 
 ::::: 
 

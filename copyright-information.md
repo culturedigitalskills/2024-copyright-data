@@ -6,11 +6,9 @@ exercises: 0
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- To understand copyright law in the UK.
-- To be aware of the impact of the 
-copyright legislation on personal
-practice for collecting 
-multidimensional data.
+- Presents how creative works
+are protected, including digital creative works 
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
