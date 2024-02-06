@@ -39,4 +39,7 @@ for educational, non-commercial or commercial purposes.
 
 Determine how to attribute the creative works.
 
+Use this [license chooser](https://chooser-beta.creativecommons.org/) from the Creative Commons to define the license you need.
+
+
 :::::::
