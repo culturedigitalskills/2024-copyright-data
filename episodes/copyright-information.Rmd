@@ -220,7 +220,7 @@ it is the author's own **‘intellectual creation'**.
 
 Following this argument, there is potential 
 for claiming **copyright in a 3D digital image** as a
-[higher degree of skills goes into creating it](https://www.jisc.ac.uk/guides/3d-digitisation-and-intellectual-property-rights).
+higher degree of skills goes into creating it.
 
 
 <!--## Database rights
