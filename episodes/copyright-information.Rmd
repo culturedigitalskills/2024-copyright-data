@@ -147,9 +147,8 @@ resulting work.
 
 ## Copyright of Images in UK law
 
-![&copy; sata_production from AdobeStock](fig/AdobeStock_167942721.jpeg){alt="Photographs, illustrations and other 
-images will generally be protected by 
-copyright as artistic works."}
+![&copy; sata_production from AdobeStock](fig/AdobeStock_167942721.jpeg)
+
 Photographs, illustrations and other 
 images will generally be protected by 
 copyright as **artistic works**.
