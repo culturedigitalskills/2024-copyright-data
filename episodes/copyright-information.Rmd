@@ -21,9 +21,9 @@ Copyright gives the owner **control** over their work and how it is used.
 
 There are four areas of **intellectual property**:
 
-  - **Copyright**: what the work is. 
-  - **Patents**: how something works.
-  - **Designs**: what something looks like.
+  - **Copyright**: what the work is;
+  - **Patents**: how something works;
+  - **Designs**: what something looks like;
   - **Trademark**: what you call it.
 
 Works use the copyright symbol (&copy;), a name and the year of creation.
@@ -31,6 +31,7 @@ Works use the copyright symbol (&copy;), a name and the year of creation.
 ## Who owns the copyright?
 
 ![&copy; warmworld from AdobeStock](fig/AdobeStock_366787827.jpeg){alt='Authors automatically get copyright protection when the work is created.'}
+
 There is no system in the UK for registering copyright. 
 
 Authors automatically get copyright protection when the work is created.
@@ -45,10 +46,10 @@ Copyright only protects  works when ideas are
 **expressed** in a form that can be reproduced or copied:
 
   - **Original literary**, dramatic, musical and artistic work, including illustration and photography.
-  - **Original non-literary written work**, such as software, web content and databases.
-  - **Sound and music** recordings.
-  - **Film and television** recordings.
-  - **Broadcasts**.
+  - **Original non-literary written work**, such as software, web content and databases;
+  - **Sound and music** recordings;
+  - **Film and television** recordings;
+  - **Broadcasts**;
   - **The layout** of published editions of written, dramatic and musical works. 
 
 ## Multiple independent copyrights
@@ -60,21 +61,21 @@ The copyright in each type of work exists
 
 For example, a song may be covered by copyright:
 
-- on the **entire collectio**n which contains the song.
-- on the **lyrics** as a literary work.
+- on the **entire collectio**n which contains the song;
+- on the **lyrics** as a literary work;
 - on the **music** of the song as its performance.
 
 ## How copyright protects work
 
 Copyright prevents people from:
 
-  - **copying** work
-  - putting someone's work on the **Internet**.
+  - **copying** work;
+  - putting someone's work on the **Internet**;
   - **distributing** copies of someone's work, whether free of     
-  charge or for sale    
-  - **renting** or **lending** copies of someone's work
-  - making an **adaptation** of someone's work
-  - **performing**, **showing** or **playing** someone's work in public
+  charge or for sale;   
+  - **renting** or **lending** copies of someone's work;
+  - making an **adaptation** of someone's work;
+  - **performing**, **showing** or **playing** someone's work in public.
 
 
 ## Exceptions
@@ -85,8 +86,8 @@ films and recorded sound.
 
 For example:
 
-- making content accessible for disabled people.
-- text and data mining for research.
+- making content accessible for disabled people;
+- text and data mining for research;
 - teaching, fair dealing and more.
 
 See more information: [https://www.gov.uk/guidance/exceptions-to-copyright#non-commercial-research-and-private-study](https://www.gov.uk/guidance/exceptions-to-copyright#non-commercial-research-and-private-study)
