@@ -5,10 +5,10 @@ title: Setup
 ## Data Sets
 This tutorial will require access to
 various examples of media files to practice
-some of the learning done during the lesson.
+some of the learning done during the session.
 
 If you are doing this lesson as part
-of a workshop which create dataasets, you can
+of a workshop which creates datasets, you can
 reuse what you have collected before.
 
 Otherwise, you can use example data sets from sites such as:

@@ -17,10 +17,10 @@ It is important to reference creative works.
 There are [best practices](https://wiki.creativecommons.org/wiki/best_practices_for_attribution) when attributing works
 in order to recognise:
 
-- **Title** of the work
-- **Copyright** owner
-- **Source** of the work
-- **License** under which you use the work
+- **Title** of the work;
+- **Copyright** owner;
+- **Source** of the work;
+- **License** under which you use the work.
 
 For example:
 
