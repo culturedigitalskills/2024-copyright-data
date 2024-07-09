@@ -10,6 +10,6 @@
 "episodes/licensing-works.Rmd" "4920a0fe52ad587e5fe8a69e6bb774aa" "site/built/licensing-works.md" "2024-07-09"
 "instructors/instructor-notes.md" "753a818d77ba4dfce1249b07de672da7" "site/built/instructor-notes.md" "2024-07-09"
 "learners/reference.md" "527a12e217602daae51c5fd9ef8958df" "site/built/reference.md" "2024-07-09"
-"learners/setup.md" "67fa4159dc97a6c0dc1dab4c821a836a" "site/built/setup.md" "2024-07-09"
+"learners/setup.md" "809bbcf00ce25d2153d21d54dbd5822d" "site/built/setup.md" "2024-07-09"
 "profiles/learner-profiles.md" "5fe5bf7537072422b91ed393ada03f9a" "site/built/learner-profiles.md" "2024-07-09"
 "renv/profiles/lesson-requirements/renv.lock" "7d711c526ece4f7c663cc4db717aab60" "site/built/renv.lock" "2024-07-09"
